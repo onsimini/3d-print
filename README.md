@@ -3,7 +3,7 @@ List of 3D print artifacts.
 
 | ![plane](/Eclipson_model_A_free_version/docs/plane.png) | [Eclipson_model_A_free_version](/Eclipson_model_A_free_version) |
 | --- | --- |
-| ![plane](<img src="/Eclipson_model_A_free_version/docs/plane.png" width="400"> ) | [Eclipson_model_A_free_version](/Eclipson_model_A_free_version) |
+| ![plane](<img src="https://github.com/onsimini/3d-print/blob/main/Eclipson_model_A_free_version/docs/plane.png" width="400"> ) | [Eclipson_model_A_free_version](/Eclipson_model_A_free_version) |
 | Image is comming soon | [electric-cable-desk-support](/electric-cable-desk-support) |
 | Image is comming soon | [electric-toothbrush-heads-holder](/electric-toothbrush-heads-holder) |
 | Image is comming soon | [petite-coupelle](/petite-coupelle) |
